@@ -9,6 +9,7 @@ The requirements for using LightRay are:-
 1. Ubuntu OS (or any linux OS. The reason Windows is not recommended because while we are developing we were facing a lot of issues because of window's firewall.)
 2. Docker cli installed. (The required images will be pulled automatically.)
 3.  Go installed.
+4.  Clone the repository to get the cluster setup file (new.go) and the sample training job (python file).
 
 ## Cluster Setup
 1. navigate to the folder where the new.go file is present. run that file using the command ```go run new.go```. This launches LightRay.
