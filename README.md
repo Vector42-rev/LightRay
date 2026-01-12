@@ -20,9 +20,15 @@ The requirements for using LightRay are:-
 
 
 ## Screenshots
+1. Two Laptops connected over Ethernet, with their CPU-GPU resources pooled.
 <p align="center">
   <img width="1794" height="876" alt="i1" src="https://github.com/user-attachments/assets/f8b33dcb-0f84-4416-a72a-7720f7d603d9" />
 </p>
 
 <p align="center"><i>UI of LightRay</i></p>
+
+2. Loss plots
+<p align="center">
+<img width="1843" height="869" alt="i2" src="https://github.com/user-attachments/assets/b89906e9-6c69-4fbd-936d-7cc585d121b3" />
+<p align="center"><i>Tensorboard after completion of Model training Job</i></p>
 
