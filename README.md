@@ -15,4 +15,14 @@ The requirements for using LightRay are:-
 2. Open the LightRay's UI in your browser.
 3. First the head has to be setup, then the subsequent computers can join as workers.
 
+## Execute Jobs
+1. keep your python file in the path as expected in the source code. when you click on "Copy Training File" , the file will be copied inside the container and executed on the workers.
+
+
+## Screenshots
+<p align="center">
+  <img width="1794" height="876" alt="i1" src="https://github.com/user-attachments/assets/f8b33dcb-0f84-4416-a72a-7720f7d603d9" />
+</p>
+
+<p align="center"><i>UI of LightRay</i></p>
 
