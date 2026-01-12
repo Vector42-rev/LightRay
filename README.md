@@ -33,3 +33,7 @@ The requirements for using LightRay are:-
 <img width="1843" height="869" alt="i2" src="https://github.com/user-attachments/assets/b89906e9-6c69-4fbd-936d-7cc585d121b3" />
 <p align="center"><i>Tensorboard after completion of Model training Job</i></p>
 
+## References
+1.  Ray.io 's [Documentation](https://docs.ray.io/en/latest/)
+2.  Ray GPU Docker [image](https://hub.docker.com/layers/rayproject/ray/nightly-py39-cu118/images/sha256-f06087762f20431ea840042dce0a42e0005d8f497dca9cdea61fd0b3a66bc321)
+3.  A Paper based on this project has been presented in the 16th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT), July 6 - 11, 2025, IIT - Indore, Madhya Pradesh, India. Paper Id:- 6913. [conference link](https://16icccnt.com/Online_schedule_search.php#)
