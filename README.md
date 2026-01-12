@@ -37,3 +37,7 @@ The requirements for using LightRay are:-
 1.  Ray.io 's [Documentation](https://docs.ray.io/en/latest/)
 2.  Ray GPU Docker [image](https://hub.docker.com/layers/rayproject/ray/nightly-py39-cu118/images/sha256-f06087762f20431ea840042dce0a42e0005d8f497dca9cdea61fd0b3a66bc321)
 3.  A Paper based on this project has been presented in the 16th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT), July 6 - 11, 2025, IIT - Indore, Madhya Pradesh, India. Paper Id:- 6913. [conference link](https://16icccnt.com/Online_schedule_search.php#)
+
+## Future Scope
+1. Making the UI more attractive by using React.js / Next.js.
+2. Extend tool for Windows OS.
